@@ -1,4 +1,4 @@
-// Custom Udemy Progress Reset Script
+// Custom Udemy Progress Reset Button
 // Created by Alin Morosanu. https://github.com/fotoalin/udemy_reset_progress
 // This script adds a "Reset Progress" button on Udemy
 // Note: All sections must be open for the button to work.
