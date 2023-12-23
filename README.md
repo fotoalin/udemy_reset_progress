@@ -1,4 +1,4 @@
-# Udemy Progress Reset Script
+# Udemy Progress Reset button
 
 ## Overview
 This is a small JavaScript script designed to add a "Reset Progress" button to your Udemy courses. It allows you to easily reset the progress of a course, which is particularly useful if you want to start over or review the course from the beginning.
