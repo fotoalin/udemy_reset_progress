@@ -23,7 +23,7 @@ Simply click on the "Reset Progress" button that appears on the course interface
 This script is intended for personal use only and should not be used to manipulate course progress in any unauthorized manner. The author is not responsible for any misuse or any potential impact on your Udemy account.
 
 ## Author
-[Your Name or Handle]
+Alin Morosanu
 
 ## License
 This project is open source and available under the [MIT License](LICENSE).
