@@ -26,4 +26,4 @@ This script is intended for personal use only and should not be used to manipula
 Alin Morosanu
 
 ## License
-This project is open source and available under the [LICENSE](LICENSE).
+This project is open source and available under the [GNU LICENSE](LICENSE).
